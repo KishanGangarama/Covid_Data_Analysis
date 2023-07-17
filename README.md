@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4
+# Covid Data Analyst Project | SQL Data Exploration
 This repository contains the code and documentation for the Data Analyst Portfolio Project focused on SQL data exploration. The project aims to provide beginners with a practical understanding of SQL, data cleaning, and visualization using Python and Tableau.
 
 ## Introduction
