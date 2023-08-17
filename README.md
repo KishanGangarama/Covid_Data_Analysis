@@ -1,5 +1,5 @@
 # Covid Data Analyst Project | SQL Data Exploration
-This repository contains the code and documentation for the Data Analyst Portfolio Project focused on SQL data exploration. The project aims to provide beginners with a practical understanding of SQL, data cleaning, and visualization using Python and Tableau.
+This repository contains the code and documentation for the Data Analyst Portfolio Project focused on SQL data exploration. The project aims to provide a practical understanding of SQL, data cleaning, and visualization using Python and Tableau.
 
 ## Introduction
 In this project, we will explore a dataset related to COVID-19 cases, deaths, and vaccinations. The primary goal is to perform data exploration and gain insights from the dataset. We will also cover data cleaning techniques using SQL and visualize the results using Python and Tableau.
